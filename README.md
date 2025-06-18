@@ -1,16 +1,30 @@
-## Hi there 👋
+# Caine Phung
 
-<!--
-**cainephung/cainephung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a software developer based in Guelph, Ontario, and a recent graduate from Conestoga College’s Software Engineering Technology program, where I graduated with Distinction and completed 16 months of co-op experience.
 
-Here are some ideas to get you started:
+At Equitable Life of Canada, I worked on both frontend and backend development. I helped build and maintain a React component library using MUI, replaced legacy VBScript jobs with C#, and supported deployment workflows using Azure DevOps and ActiveBatch.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Outside of work, I’ve built:
+- A Chrome extension with a Node.js backend for automating daily tasks
+- A modern e-commerce site using Next.js, CSS animations, and Sanity.io
+- Contributed to a React Native capstone project with Firebase MFA, WebSocket-based chat, and Signal Protocol encryption
+
+I enjoy working with React, TypeScript, Node.js, Firebase, FastAPI (Python), PostgreSQL, .NET, and Docker.
+
+---
+
+## What I’ve Been Working On
+
+### NEAT Car AI  
+Built a self-driving car simulation using NEAT and sensors. The car learns to navigate a custom track through raycast input, steering output, and a distance-based fitness function.
+
+### NEAT Platformer AI  
+Developed a 2D platformer where an evolving NEAT agent learns to move and jump across obstacles to reach a goal, using environment layout and player position as inputs and custom fitness logic to guide learning.
+
+---
+
+Currently open to full-time junior or new grad developer roles.
+
+**Portfolio:** [www.cainesproduction.com](https://www.cainesproduction.com)  
+**Email:** [cainephung2512@hotmail.com](mailto:cainephung2512@hotmail.com)  
+**LinkedIn:** [linkedin.com/in/cainephung](https://www.linkedin.com/in/cainephung)
