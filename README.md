@@ -15,6 +15,9 @@ I enjoy working with React, TypeScript, Node.js, Firebase, FastAPI (Python), Pos
 
 ## What I’ve Been Working On
 
+### ASL Sign Language Learner
+An AI-powered desktop app that teaches American Sign Language using real-time webcam input and hand landmark detection. Built with Python, MediaPipe, and TensorFlow, it includes live gesture recognition, feedback, and a lesson mode for practicing both static and motion-based ASL letters.
+
 ### NEAT Car AI  
 Built a self-driving car simulation using NEAT and sensors. The car learns to navigate a custom track through raycast input, steering output, and a distance-based fitness function.
 
