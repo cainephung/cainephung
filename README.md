@@ -9,8 +9,7 @@ Outside of work, I’ve built:
 - A modern e-commerce site using Next.js, CSS animations, and Sanity.io
 - Contributed to a React Native capstone project with Firebase MFA, WebSocket-based chat, and Signal Protocol encryption
 
-I enjoy working with React, TypeScript, Node.js, Firebase, FastAPI (Python), PostgreSQL, .NET, and Docker.
-
+I enjoy working with Python, React, TypeScript, Node.js, Firebase, FastAPI, PostgreSQL, .NET, and Docker, and I'm always eager to learn new technologies.
 ---
 
 ## What I’ve Been Working On
