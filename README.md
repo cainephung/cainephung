@@ -8,13 +8,22 @@ Outside of work, I’ve built projects in cloud, AI/ML, and full-stack developme
 
 ---
 
-### Tech Stack
+## Tech Stack
 
-**Frontend:** JavaScript, TypeScript, React, Next.js, HTML, CSS  
-**Backend:** Node.js, Express.js, C#, .NET, FastAPI  
-**AI / ML:** Python, PyTorch, OpenCV, MediaPipe, LSTM, AWS Bedrock  
-**Cloud / DevOps:** AWS, Docker, Git, Azure DevOps, ActiveBatch, CI/CD  
-**Databases:** SQL Server, PostgreSQL
+**Frontend** 
+JavaScript, TypeScript, React, Next.js, HTML, CSS  
+
+**Backend** 
+Node.js, Express.js, C#, .NET, FastAPI  
+
+**AI / ML** 
+Python, PyTorch, OpenCV, MediaPipe, LSTM, AWS Bedrock  
+
+**Cloud / DevOps** 
+AWS, Docker, Git, Azure DevOps, ActiveBatch, CI/CD  
+
+**Databases** 
+SQL Server, PostgreSQL
 
 
 ---
