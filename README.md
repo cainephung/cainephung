@@ -2,9 +2,13 @@
 
 I’m a software developer based in Ontario and a recent graduate of Conestoga College’s Software Engineering Technology (Advanced Diploma, Co-op) program, where I graduated with Distinction and completed 16 months of co-op experience.
 
+I like building things that feel straightforward, clean, and actually useful. I prefer simple layouts, readable code, and features that make sense instead of trying to be flashy. Most of my experience is with JavaScript, React, Node, and backend/database work, but I enjoy understanding how everything connects across the stack — not just the UI.
+
 At Equitable Life of Canada, I worked on both frontend and backend systems. I helped build and maintain a React component library, replaced legacy VBScript jobs with C#, assisted with ASP.NET MVC and SQL Server projects, and supported deployment workflows using Azure DevOps and ActiveBatch.
 
-Outside of work, I’ve built projects in cloud, AI/ML, and full-stack development, applying technologies like AWS Bedrock, FastAPI, PyTorch, MediaPipe, and Next.js.
+A lot of my learning comes from building small projects for myself. If something seems interesting, I usually try to create a simple version of it to understand how it works. Lately, I’ve been spending more time learning about cloud and networking to understand how applications actually run behind the scenes.
+
+Outside of coding, I’m usually adjusting my setup, reading documentation, or testing tools that help me improve over time. Right now, I’m focused on becoming stronger as a full-stack developer and building a portfolio that shows real work, not just a list of technologies.
 
 ---
 
