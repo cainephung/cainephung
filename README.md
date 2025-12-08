@@ -12,23 +12,29 @@ Outside of coding, I’m usually adjusting my setup, reading documentation, or t
 
 ---
 
+## Mac OS–Style Portfolio
+
+One of my main projects is an interactive portfolio that recreates a mini macOS environment in the browser. It includes draggable windows, animated transitions, a Finder-style file system, a Dock, Terminal-inspired views, and light/dark theming. It’s built with React, Next.js, TailwindCSS, GSAP (for animations), and Zustand (for window state).  
+I wanted something that feels smooth, clean, and familiar — not just another scrolling website — so each “app” inside the portfolio showcases part of my work in a simple, intuitive way.
+
+---
+
 ## Tech Stack
 
-**Frontend** 
+**Frontend**  
 JavaScript, TypeScript, React, Next.js, HTML, CSS  
 
-**Backend** 
+**Backend**  
 Node.js, Express.js, C#, .NET, FastAPI  
 
-**AI / ML** 
+**AI / ML**  
 Python, PyTorch, OpenCV, MediaPipe, LSTM, AWS Bedrock  
 
-**Cloud / DevOps** 
+**Cloud / DevOps**  
 AWS, Docker, Git, Azure DevOps, ActiveBatch, CI/CD  
 
-**Databases** 
+**Databases**  
 SQL Server, PostgreSQL
-
 
 ---
 
@@ -41,7 +47,8 @@ Webcam-based app that classifies ASL letters (A–Z, including motion gestures).
 Full-stack chatbot using Retrieval-Augmented Generation (RAG). Configured AWS Knowledge Base with S3 and OpenSearch, developed a FastAPI backend, and integrated Titan Embeddings and Llama 3 for context-aware answers.
 
 **E-Commerce Website**  
-Responsive Next.js site with product listings, cart, and checkout. Content managed with Sanity CMS and deployed on Vercel with polished UI and animations. [caineshop.vercel.app](https://caineshop.vercel.app)
+Responsive Next.js site with product listings, cart, and checkout. Content managed with Sanity CMS and deployed on Vercel with polished UI and animations.  
+[caineshop.vercel.app](https://caineshop.vercel.app)
 
 **NEAT Car AI**  
 Self-driving car simulation using NEAT and sensors. Cars evolve to navigate tracks via raycast input and distance-based fitness scoring.
@@ -52,9 +59,10 @@ Self-driving car simulation using NEAT and sensors. Cars evolve to navigate trac
 ---
 
 ## Contact
+
 Portfolio: [cainesproduction.com](https://www.cainesproduction.com)  
 Email: cainephung2512@hotmail.com  
-LinkedIn: [linkedin.com/in/caine-phung](https://linkedin.com/in/caine-phung)  
+LinkedIn: [linkedin.com/in/caine-phung](https://linkedin.com/in/caine-phung)
 
 ---
 
