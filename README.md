@@ -15,7 +15,10 @@ Outside of coding, I’m usually adjusting my setup, reading documentation, or t
 ## Mac OS–Style Portfolio
 
 One of my main projects is an interactive portfolio that recreates a mini macOS environment in the browser. It includes draggable windows, animated transitions, a Finder-style file system, a Dock, Terminal-inspired views, and light/dark theming. It’s built with React, Next.js, TailwindCSS, GSAP (for animations), and Zustand (for window state).  
+
 I wanted something that feels smooth, clean, and familiar — not just another scrolling website — so each “app” inside the portfolio showcases part of my work in a simple, intuitive way.
+
+[cainesproduction.com](https://www.cainesproduction.com) 
 
 ---
 
